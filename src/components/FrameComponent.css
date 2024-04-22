@@ -1,0 +1,421 @@
+.questions {
+  font-family: "Garnett Regular";
+}
+.frequently-asked-questions-container {
+  margin: 0;
+  height: 59px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  display: inline-block;
+  max-width: 100%;
+  font-family: inherit;
+}
+.frequently-asked-questions-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 78px 0 79px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.we-have-compiled {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Poppins;
+  color: #1c1c1c;
+}
+.frame-parent15,
+.hero-inner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent15 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 22px;
+}
+.hero-inner {
+  width: 854px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 18px;
+  box-sizing: border-box;
+}
+.how-can-i {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.typcnplus-wrapper {
+  height: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+  box-sizing: border-box;
+}
+.how-can-i-get-started-with-rew-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.lorem-ipsum-dolor {
+  align-self: stretch;
+  height: 53px;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.stroke-shaper {
+  width: 854px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 21px 26px 16px;
+  gap: 24px;
+}
+.how-can-i1 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.asset,
+.typcnplus-icon1 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.typcnplus-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.asset {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.how-can-i2 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.gradient-generator {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 32px 21px 28px;
+  gap: 20px;
+}
+.how-can-i3 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.gradient-generator1 {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.how-can-i4 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.share-onchain-compliance-betwe {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.how-can-i5 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.proof-of-trusted-operations-in {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.how-can-i6 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.gradient-generator2 {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.how-can-i7 {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+}
+.typcnplus-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.gradient-generator3 {
+  width: 854px;
+  height: 66px;
+  border-radius: 10px;
+  border: 2px solid #5c27c0;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 21px 31px 21px 27px;
+  gap: 20px;
+}
+.hero,
+.hero-wrapper,
+.path-patterner {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.path-patterner {
+  width: 854px;
+  overflow-x: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  text-align: left;
+  font-size: 18px;
+  color: #1c1c1c;
+  font-family: Poppins;
+}
+.hero,
+.hero-wrapper {
+  box-sizing: border-box;
+}
+.hero {
+  flex: 1;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 107px 20px 158px;
+  gap: 74px;
+}
+.hero-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 113px;
+  text-align: center;
+  font-size: 42px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}
+@media screen and (max-width: 1400px) {
+  .hero,
+  .hero-wrapper {
+    box-sizing: border-box;
+  }
+  .hero {
+    padding-top: 70px;
+    padding-bottom: 103px;
+  }
+  .hero-wrapper {
+    padding-bottom: 73px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frequently-asked-questions-wrapper {
+    padding-left: 39px;
+    padding-right: 39px;
+    box-sizing: border-box;
+  }
+  .hero {
+    gap: 37px 74px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .frequently-asked-questions-container {
+    font-size: 34px;
+  }
+  .hero,
+  .hero-wrapper {
+    box-sizing: border-box;
+  }
+  .hero {
+    padding-top: 45px;
+    padding-bottom: 67px;
+  }
+  .hero-wrapper {
+    padding-bottom: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frequently-asked-questions-container {
+    font-size: 25px;
+  }
+  .hero {
+    gap: 18px 74px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .frequently-asked-questions-container {
+    font-size: 34px;
+  }
+  .hero {
+    padding-top: 45px;
+    padding-bottom: 67px;
+    gap: 18px 74px;
+  }
+  .hero-wrapper {
+    padding-bottom: 47px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .frequently-asked-questions-container {
+    font-size: 25px;
+  }
+  .hero {
+    gap: 18px 74px;
+  }
+}
+
+@media screen and (max-width: 1125px) {
+  .frequently-asked-questions-wrapper {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+  .hero {
+    gap: 37px 74px;
+  }
+}
+

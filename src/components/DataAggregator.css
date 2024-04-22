@@ -1,0 +1,522 @@
+.transparent-pricing {
+  font-family: "Garnett Regular";
+}
+.choose-your-simple-container {
+  margin: 0;
+  width: 875px;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 100%;
+  font-family: inherit;
+}
+.logic-tree {
+  width: 1201px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 14px;
+}
+.wrapper {
+  width: 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.5px 0 0;
+  box-sizing: border-box;
+}
+.months {
+  margin: 0;
+  height: 32px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: "Garnett Medium";
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent11 {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  width: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.most-popular {
+  flex: 1;
+  position: relative;
+  font-size: 14px;
+  font-family: "Garnett Medium";
+  color: #1f1f1f;
+  text-align: center;
+}
+.iterator {
+  cursor: pointer;
+  border: 0;
+  padding: 8px 18.5px;
+  background-color: #ffb649;
+  position: absolute;
+  top: 0;
+  left: 106px;
+  border-radius: 0 0 0 5px;
+  width: 132px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.iterator:hover {
+  background-color: #cc8217;
+}
+.frame-parent10 {
+  height: 66px;
+  width: 238px;
+  position: relative;
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.h11 {
+  margin: 0;
+  height: 56px;
+  width: 26px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: "Space Grotesk";
+  flex-shrink: 0;
+  min-width: 26px;
+}
+.data-transformer,
+.h11,
+.month2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.data-transformer {
+  height: 56px;
+  flex: 1;
+}
+.month2 {
+  height: 38px;
+  width: 61px;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+.frame-parent9,
+.group {
+  display: flex;
+  justify-content: flex-start;
+}
+.group {
+  width: 225px;
+  flex-direction: row;
+  align-items: flex-end;
+  font-size: 40px;
+  font-family: "Garnett Medium";
+}
+.frame-parent9 {
+  margin-right: -34.5px;
+  width: 296px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.suitable-for-companies1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.icons6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.interview-ready-candidates1 {
+  flex: 1;
+  position: relative;
+}
+.button {
+  align-self: stretch;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.icons7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.unlimited-job-postings1 {
+  flex: 1;
+  position: relative;
+}
+.neoneffect {
+  align-self: stretch;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.icons8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.receive-pre-vetted-profiles1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 170px;
+}
+.icons-parent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.icons9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.dedicated-account-manager1 {
+  flex: 1;
+  position: relative;
+}
+.daily-crypto-news {
+  align-self: stretch;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.icons10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.assistance-with-interview1 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 159px;
+}
+.icons-parent3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.icons11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.custom-reports1 {
+  flex: 1;
+  position: relative;
+}
+.how-naoris-protocol-tackles-y {
+  align-self: stretch;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 10px;
+}
+.button-parent,
+.suitable-for-companies-with-5-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.button-parent {
+  align-self: stretch;
+  gap: 10px;
+  text-align: left;
+  font-size: 16px;
+  color: #eee5ff;
+  font-family: Poppins;
+}
+.suitable-for-companies-with-5-group {
+  flex: 1;
+  gap: 20px;
+}
+.frame-wrapper6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1px 19px;
+  font-size: 18px;
+  font-family: "Garnett Medium";
+}
+.get-started3 {
+  width: 104px;
+  position: relative;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #5c27c0;
+  text-align: center;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  min-width: 104px;
+  white-space: nowrap;
+}
+.vector-icon17,
+.vector-icon18 {
+  height: 0;
+  width: 18px;
+  position: relative;
+  z-index: 1;
+}
+.vector-icon18 {
+  height: 14px;
+  width: 7px;
+  z-index: 2;
+  margin-left: -5px;
+}
+.arrow5,
+.simple-button5 {
+  flex-direction: row;
+  justify-content: center;
+}
+.arrow5 {
+  height: 14px;
+  width: 1px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  align-items: center;
+}
+.simple-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #f7f7f7;
+  align-self: stretch;
+  border-radius: 10px;
+  box-shadow: 0 20px 40px rgba(92, 39, 192, 0.35);
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+.frame-parent8 {
+  flex: 1;
+  border-radius: 10px;
+  background-color: #5c27c0;
+  box-shadow: 0 20px 40px rgba(118, 118, 118, 0.35);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 34px 30px;
+  box-sizing: border-box;
+  gap: 46px;
+  min-width: 274px;
+  max-width: 100%;
+  color: #f7f7f7;
+}
+.frame-parent7 {
+  width: 1197px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 49.5px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.discord,
+.step-3 {
+  align-self: stretch;
+}
+.step-3 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 50px;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+}
+.discord {
+  height: 78px;
+  border-radius: 10px;
+  background-color: #eee5ff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 14px 74px 14px 75px;
+  box-sizing: border-box;
+  debug_commit: f6aba90;
+}
+.array-array,
+.data-aggregator2,
+.discord,
+.output-merge {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.array-array {
+  width: 247px;
+  flex-direction: column;
+  padding: 11px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 28px;
+  font-family: Poppins;
+}
+.data-aggregator2,
+.output-merge {
+  max-width: 100%;
+}
+.output-merge {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 218px;
+  text-align: center;
+  font-size: 23px;
+  font-family: "Space Grotesk";
+}
+.data-aggregator2 {
+  width: 1340px;
+  flex-direction: column;
+  padding: 0 0 89px 20px;
+  box-sizing: border-box;
+  gap: 67px;
+  text-align: left;
+  font-size: 42px;
+  color: #5c27c0;
+  font-family: "Garnett Semibold";
+}
+@media screen and (max-width: 1400px) {
+  .output-merge {
+    flex-wrap: wrap;
+    gap: 218px 109px;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent7 {
+    flex-wrap: wrap;
+  }
+  .data-aggregator2 {
+    padding-bottom: 58px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .choose-your-simple-container {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .data-transformer,
+  .h11 {
+    font-size: 32px;
+  }
+  .frame-parent7 {
+    gap: 49.5px 25px;
+  }
+  .output-merge {
+    gap: 218px 54px;
+  }
+  .data-aggregator2 {
+    gap: 33px 67px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .choose-your-simple-container {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .div,
+  .months {
+    font-size: 18px;
+  }
+  .data-transformer,
+  .h11 {
+    font-size: 24px;
+  }
+  .icons-parent2,
+  .icons-parent3 {
+    flex-wrap: wrap;
+  }
+  .frame-parent8 {
+    gap: 23px 46px;
+  }
+  .step-3 {
+    font-size: 22px;
+    line-height: 40px;
+  }
+  .output-merge {
+    gap: 218px 27px;
+  }
+  .data-aggregator2 {
+    gap: 17px 67px;
+    padding-bottom: 38px;
+    box-sizing: border-box;
+  }
+}

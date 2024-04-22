@@ -1,0 +1,191 @@
+.talent-assessment {
+  font-family: "Garnett Regular";
+}
+.discover-the-future-container {
+  margin: 0;
+  align-self: stretch;
+  height: 118px;
+  position: relative;
+  font-size: 42px;
+  color: #5c27c0;
+  display: flex;
+  align-items: center;
+  font-family: "Garnett Semibold";
+}
+.facing-challenges-in,
+.uncover-the-costs {
+  margin: 0;
+}
+.facing-challenges-in-container {
+  align-self: stretch;
+  position: relative;
+}
+.inside-this-whitepaper {
+  margin: 0;
+}
+.manual-vs-machine-based {
+  font-family: Poppins;
+}
+.manual-vs-machine-based-hirin1 {
+  margin-bottom: 0;
+}
+.the-truth-about {
+  font-family: Poppins;
+}
+.the-truth-about-interview-as {
+  margin-bottom: 0;
+}
+.generative-ai-the {
+  font-family: Poppins;
+}
+.manual-vs-machine-based-hirin {
+  margin: 0;
+  font-size: inherit;
+  padding-left: 24px;
+}
+.inside-this-whitepaper-container {
+  align-self: stretch;
+  position: relative;
+}
+.number-processor {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.download-now-for {
+  position: relative;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fffbfb;
+  text-align: left;
+}
+.cta-button2,
+.value-comparer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cta-button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 21px 56px;
+  background-color: #5c27c0;
+  border-radius: 20px;
+  box-shadow: 0 8px 18px rgba(174, 93, 255, 0.46);
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cta-button2:hover {
+  background-color: #824de6;
+}
+.value-comparer {
+  flex: 1;
+  flex-direction: column;
+  gap: 94px;
+  min-width: 502px;
+}
+.asset-icon {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: -9px;
+  top: 10px;
+  transform: scale(1.049);
+}
+.wrapper-asset {
+  height: 563px;
+  width: 387px;
+  position: relative;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cta,
+.cta-wrapper {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cta {
+  flex: 1;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 81px 120px 110px;
+  gap: 40px;
+}
+.cta-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 68px;
+  text-align: left;
+  font-size: 18px;
+  color: #1f1f1f;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1125px) {
+  .asset-icon {
+    flex: 1;
+  }
+  .cta {
+    flex-wrap: wrap;
+  }
+  .cta-wrapper {
+    padding-bottom: 44px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .discover-the-future-container {
+    font-size: 34px;
+  }
+  .cta-button2 {
+    padding-left: 28px;
+    padding-right: 28px;
+    box-sizing: border-box;
+  }
+  .value-comparer {
+    gap: 47px 94px;
+    min-width: 100%;
+  }
+  .cta {
+    gap: 40px 20px;
+    padding: 53px 60px 71px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .discover-the-future-container {
+    font-size: 25px;
+  }
+  .download-now-for {
+    font-size: 19px;
+    line-height: 22px;
+  }
+  .value-comparer {
+    gap: 23px 94px;
+  }
+  .cta,
+  .cta-wrapper {
+    box-sizing: border-box;
+  }
+  .cta {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .cta-wrapper {
+    padding-bottom: 29px;
+  }
+}
